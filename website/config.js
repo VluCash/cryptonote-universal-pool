@@ -1,14 +1,14 @@
-var api = "http://poolhost.com:1117";
+var api = "https://pool.vlucash.org:1117";
 
-var poolHost = "poolhost.com";
+var poolHost = "https://pool.vlucash.org";
 
-var irc = "irc.freenode.net/#poolhost";
+var irc = "irc.freenode.net/#vlucash";
 
-var email = "support@poolhost.com";
+var email = "contact@vlucash.org";
 
-var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
+var cryptonatorWidget = ["{symbol}-VLU", "{symbol}-USD", "{symbol}-EUR"];
 
-var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
+var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases";
 
 var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
 
