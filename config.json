@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "BNDWk6aSyK8PQgkBLZvW3EgqCqCRUq6v7LRTbJbgeq5gPALKaZdxgnP6vPKWJtPLmYNdr6eypBB6yaMHp9W4pYb1VdxrAQY",
+        "poolAddress": "cxqhJKHTmFbKV9hnyXcRVmjdYEv9W2Lky7KQ9ttDJdYv5LDCP7k6mADYmXdhGFb5Pi3KbQF7szSLFfa6xPK8A6kk1PdVZVRUK",
         "mergedMiningMinVersion": "99",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
@@ -105,15 +105,15 @@
     },
 
     "daemon": {
-        "host": "45.77.212.56",
-        "host": "207.148.18.149",
-        "port": 17237
+        "host": "45.77.213.186",
+        "host": "45.32.227.189",
+        "port": 18237
     },
 
     "wallet": {
-        "host": "45.77.212.56",
-        "host": "207.148.18.149",
-        "port": 18237
+        "host": "45.77.213.186",
+        "host": "45.32.227.189",
+        "port": 19237
     },
 
     "redis": {
