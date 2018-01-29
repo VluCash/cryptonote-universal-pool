@@ -1,4 +1,4 @@
-var api = "https://pool.vlucash.org:1117";
+var api = "https://45.63.82.141:1117";
 
 var poolHost = "https://pool.vlucash.org";
 
