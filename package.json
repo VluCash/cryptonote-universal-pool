@@ -5,7 +5,7 @@
     "author": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "https://github.com/VluCash/pool.git"
+        "url": "https://github.com/fancoder/cryptonote-universal-pool.git"
     },
     "dependencies": {
         "bignum": "*",
